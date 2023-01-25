@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Web application using https://newsapi.org APIs to show news headlines and details with login features using google authentication and firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
